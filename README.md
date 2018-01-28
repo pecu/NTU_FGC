@@ -19,7 +19,8 @@
     (1) https://www.kaggle.com/c/ntu-nlp-2017-term-project-1
     
     (2) https://www.kaggle.com/c/ntu-nlp-2017-term-project-2
-  
+    
+    (3) https://www.kaggle.com/c/ml-2017fall-final-tv-conversation/data  
 
 # 實作套件建議:
 
